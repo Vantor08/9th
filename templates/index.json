@@ -1,0 +1,34 @@
+{
+  "sections": {
+    "home-hero": {
+      "type": "home-hero"
+    },
+    "home-agitation": {
+      "type": "home-agitation"
+    },
+    "home-solution": {
+      "type": "home-solution"
+    },
+    "home-angle-stories": {
+      "type": "home-angle-stories"
+    },
+    "home-ingredients": {
+      "type": "home-ingredients"
+    },
+    "home-reviews": {
+      "type": "home-reviews"
+    },
+    "home-final-cta": {
+      "type": "home-final-cta"
+    }
+  },
+  "order": [
+    "home-hero",
+    "home-agitation",
+    "home-solution",
+    "home-angle-stories",
+    "home-ingredients",
+    "home-reviews",
+    "home-final-cta"
+  ]
+}
